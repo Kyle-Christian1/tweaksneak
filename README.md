@@ -8,7 +8,7 @@
   - [Java with SQL interfacing](https://github.com/tweaksneak/Scheduler)
   - [Java database](https://github.com/tweaksneak/Inventory-System)
 
-- <b>Python</b>
+- <b>Python (Jupyter Notebook, PyCharm)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/tweaksneak/Delivery-System)
   - [Salary Prediction (Machine Learning Algorithm)](https://github.com/tweaksneak/Salary-Prediction/blob/main/capstone.ipynb)
 
